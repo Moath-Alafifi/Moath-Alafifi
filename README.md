@@ -14,7 +14,9 @@ I possess front-end development & design skills, which ensure that web applicati
 
 📫 Reach me at: moath.fayez.alafifi@gmail.com
 
-:point_right: LinkedIn profilee: www.linkedin.com/in/moath-alafifi
+:point_right: LinkedIn profilee: <a href="https://www.linkedin.com/in/moath-alafifi/">
+            <img height="50" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" />
+            </a>
  
 🔨 Languages and Tools:
 
