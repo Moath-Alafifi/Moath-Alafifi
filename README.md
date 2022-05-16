@@ -18,10 +18,5 @@ I possess front-end development & design skills, which ensure that web applicati
  
 🔨 Languages and Tools:
 
-React
 
-
-
-
-
-
+<strong>React</strong>
