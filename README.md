@@ -20,4 +20,7 @@ I possess front-end development & design skills, which ensure that web applicati
 
 
 
+<img align="left" alt="TypeScript" height="42px" src="react.svg" style="max-width: 100%;">
 <img align="left" alt="TypeScript" height="42px" src="/adriandelgg/adriandelgg/raw/main/typescript.svg" style="max-width: 100%;">
+<img align="left" alt="TypeScript" height="42px" src="/adriandelgg/adriandelgg/raw/main/typescript.svg" style="max-width: 100%;">
+
